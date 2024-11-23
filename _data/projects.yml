@@ -1,10 +1,22 @@
-# Projects data
-# Add details for each project as needed
-- name: "Project Name"
-  descr: "Description of your project goes here."
-  demo: "https://example.com"
+- name: "Campus Crave"
+  descr: "A cross-platform meal delivery app for students, built with Flutter (frontend) and Django (backend)."
+  demo: "https://github.com/juanpaperez9/campus-crave"
   tags:
-    - tag: Tag1
-    - tag: Tag2
+    - tag: Flutter
+    - tag: Django
+    - tag: SQL
 
-# Add more projects as needed
+- name: "Language Learning AI"
+  descr: "A neural network-based AI for real-time language translation and interactive learning."
+  demo: "https://github.com/juanpaperez9/language-ai"
+  tags:
+    - tag: Python
+    - tag: AI
+    - tag: Neural Networks
+
+- name: "TI-84 Graphing Calculator"
+  descr: "A Python-based calculator implementing graphing functionality with an intuitive interface."
+  demo: "https://github.com/juanpaperez9/graphing-calculator"
+  tags:
+    - tag: Python
+    - tag: Math
