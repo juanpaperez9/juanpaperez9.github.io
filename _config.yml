@@ -57,7 +57,7 @@ sidebar:
     - url: https://www.linkedin.com/in/juan-pablo-perez-mejia-625372299/
       title: LinkedIn
       order: 1
-    -url: https://app.joinhandshake.com/profiles/43519722
+    - url: https://app.joinhandshake.com/profiles/43519722
       title: Handshake
       order: 2
     - url: mailto:jpperezmejia@knox.edu
