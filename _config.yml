@@ -69,9 +69,7 @@ sidebar:
       category: "Social Media"
 
     # Separator and Juanpa in the US Links
-    - title: "Juanpa in the US"
-      separator: true
-      order: 4
+          order: 4
     - url: /juanpa-in-us/experience/
       title: Experience
       order: 5
