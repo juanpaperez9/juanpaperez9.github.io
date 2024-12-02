@@ -1,5 +1,5 @@
 ---
-layout: libdoc/page
+layout: page
 title: "Classes"
 permalink: /classes/
 description: "An overview of the courses I have completed during my academic journey."

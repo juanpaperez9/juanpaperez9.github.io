@@ -1,5 +1,5 @@
 ---
-layout: libdoc/page
+layout: page
 title: "Skills"
 permalink: /skills/
 description: "A summary of my skills."

@@ -70,15 +70,15 @@ sidebar:
       category: "Social Media"
 
     # Juanpa in the US Links
-    - url: /juanpa-in-us/experience/
+    - url: /experience/
       title: Experience
       order: 4
       category: "Juanpa in the US"
-    - url: /juanpa-in-us/skills/
+    - url: /skills/
       title: Skills
       order: 5
       category: "Juanpa in the US"
-    - url: /juanpa-in-us/classes/
+    - url: /classes/
       title: Classes
       order: 6
       category: "Juanpa in the US"
