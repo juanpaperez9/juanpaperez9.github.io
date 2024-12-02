@@ -10,7 +10,10 @@ description: >-
 
 # Defaults
 defaults:
-  - values:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
       layout: libdoc/page
 
 kramdown:
