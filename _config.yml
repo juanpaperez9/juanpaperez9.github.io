@@ -68,19 +68,18 @@ sidebar:
       order: 3
       category: "Social Media"
 
-    # Separator and Juanpa in the US Links
-          order: 4
+    # Juanpa in the US Links
     - url: /juanpa-in-us/experience/
       title: Experience
-      order: 5
+      order: 4
       category: "Juanpa in the US"
     - url: /juanpa-in-us/skills/
       title: Skills
-      order: 6
+      order: 5
       category: "Juanpa in the US"
     - url: /juanpa-in-us/classes/
       title: Classes
-      order: 7
+      order: 6
       category: "Juanpa in the US"
 
   # Sidebar Sections
@@ -88,22 +87,19 @@ sidebar:
     - title: "Social Media"
       category: true # Makes it a category, not a clickable page
       order: 0
-    - title: "Juanpa in the US"
-      category: true # Makes it a category, not a clickable page
-      order: 1
     - title: "Experience"
       url: /_pages/experience/
-      order: 2
+      order: 1
       category: "Juanpa in the US"
       separator: true
     - title: "Skills"
       url: /_pages/skills/
-      order: 3
+      order: 2
       category: "Juanpa in the US"
       separator: true
     - title: "Classes"
       url: /_pages/classes/
-      order: 4
+      order: 3
       category: "Juanpa in the US"
       separator: true
 
