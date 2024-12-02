@@ -29,6 +29,24 @@
                 {% endif %}
             </a>
         </li>
+        
+        <!-- Social Media Category -->
+        <li class="c-category-title">Social Media</li>
+        <li><a href="https://github.com/juanpaperez9" class="c-btn m-block-right u-p-md"><span class="i-github u-mr-xxs"></span> GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/juan-pablo-perez-mejia-625372299/" class="c-btn m-block-right u-p-md">LinkedIn</a></li>
+        <li><a href="https://app.joinhandshake.com/profiles/43519722" class="c-btn m-block-right u-p-md">Handshake</a></li>
+        <li><a href="mailto:jpperezmejia@knox.edu" class="c-btn m-block-right u-p-md">Email Me</a></li>
+        
+        <!-- Separator -->
+        <hr class="u-bt-thin-dashed-alt">
+        
+        <!-- Juanpa in the US Category -->
+        <li class="c-category-title">Juanpa in the US</li>
+        <li><a href="/juanpa-in-us/skills/" class="c-btn m-block-right u-p-md">Skills</a></li>
+        <li><a href="/juanpa-in-us/experience/" class="c-btn m-block-right u-p-md">Experience</a></li>
+        <li><a href="/juanpa-in-us/classes/" class="c-btn m-block-right u-p-md">Classes</a></li>
+        
+        <!-- Search Form -->
         {% if page_paths %}
             {% if site.sidebar.disable_search != true %}
                 <li id="libdoc-sidebar-item-search">
@@ -44,7 +62,6 @@
                     </form>
                 </li>
             {% endif %}
-            {% include libdoc/menu-basic.html %}
         {% endif %}
     </ul>
 </nav>
