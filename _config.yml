@@ -48,18 +48,21 @@ metadata:
 sidebar:
   disable_search: false
   logo:
-    url: /assets/images/profile-pic.png # Replace with your profile picture
+    url: /assets/libdoc/img/profile.jpeg # Replace with your profile picture
     max_height: 40px
   additional_links:
     - url: https://github.com/juanpaperez9
       title: <span class="i-github u-mr-xxs"></span> GitHub
       order: 0
-    - url: https://linkedin.com/in/juanpaperez
+    - url: https://www.linkedin.com/in/juan-pablo-perez-mejia-625372299/
       title: LinkedIn
       order: 1
+    -url: https://app.joinhandshake.com/profiles/43519722
+      title: Handshake
+      order: 2
     - url: mailto:jpperezmejia@knox.edu
       title: Email Me
-      order: 2
+      order: 3
 
 # Badges
 shields:
@@ -77,10 +80,12 @@ assets:
     - jpg
     - png
     - svg
+    - jpeg
   image_extensions:
     - jpg
     - png
     - svg
+    - jpeg
 
 # Syntax Highlighter
 prism:
