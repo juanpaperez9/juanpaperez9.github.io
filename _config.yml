@@ -10,8 +10,11 @@ description: >-
 
 # Defaults
 defaults:
-  - values:
-      layout: libdoc/page
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "libdoc/page"
 
 kramdown:
   syntax_highlighter_opts:
