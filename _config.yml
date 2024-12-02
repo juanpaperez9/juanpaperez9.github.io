@@ -10,8 +10,7 @@ description: >-
 
 # Defaults
 defaults:
-  -
-    values:
+  - values:
       layout: libdoc/page
 
 kramdown:
@@ -51,6 +50,7 @@ sidebar:
     url: /assets/libdoc/img/profile.jpeg # Replace with your profile picture
     max_height: 40px
   additional_links:
+    # Social Media Links
     - url: https://github.com/juanpaperez9
       title: <span class="i-github u-mr-xxs"></span> GitHub
       order: 0
@@ -63,6 +63,18 @@ sidebar:
     - url: mailto:jpperezmejia@knox.edu
       title: Email Me
       order: 3
+
+  # Sidebar Sections
+  sections:
+    - title: "Juanpa in the US"
+      order: 1
+      children:
+        - title: "Experience"
+          url: /juanpa-in-us/experience/
+        - title: "Skills"
+          url: /juanpa-in-us/skills/
+        - title: "Classes"
+          url: /juanpa-in-us/classes/
 
 # Badges
 shields:
