@@ -54,18 +54,25 @@ sidebar:
     - url: https://github.com/juanpaperez9
       title: <span class="i-github u-mr-xxs"></span> GitHub
       order: 0
+      category: "Social Media"
     - url: https://www.linkedin.com/in/juan-pablo-perez-mejia-625372299/
       title: LinkedIn
       order: 1
+      category: "Social Media"
     - url: https://app.joinhandshake.com/profiles/43519722
       title: Handshake
       order: 2
+      category: "Social Media"
     - url: mailto:jpperezmejia@knox.edu
       title: Email Me
       order: 3
+      category: "Social Media"
 
   # Sidebar Sections
   sections:
+    - title: "Social Media"
+      category: true # Makes it a category, not a clickable page
+      order: 0
     - title: "Juanpa in the US"
       category: true # Makes it a category, not a clickable page
       order: 1
@@ -73,14 +80,17 @@ sidebar:
       url: /juanpa-in-us/experience/
       order: 2
       category: "Juanpa in the US"
+      separator: true
     - title: "Skills"
       url: /juanpa-in-us/skills/
       order: 3
       category: "Juanpa in the US"
+      separator: true
     - title: "Classes"
       url: /juanpa-in-us/classes/
       order: 4
       category: "Juanpa in the US"
+      separator: true
 
 # Badges
 shields:
