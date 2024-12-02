@@ -1,5 +1,8 @@
 ---
+layout: libdoc/page
 title: "Experience"
-layout: page
-permalink: /juanpa-in-us/experience/
+description: "Learn more about my professional experience"
+order: 10
+category: "Juanpa in the US"
+separator: true
 ---

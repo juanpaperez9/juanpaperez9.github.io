@@ -1,18 +1,32 @@
 ---
+layout: libdoc/page
 title: "Classes"
-layout: page
-permalink: /juanpa-in-us/classes/
+description: "An overview of the courses I have completed during my academic journey."
+order: 30
+category: "Juanpa in the US"
+separator: true
 ---
 
-# Classes
+## Classes
 
-<!-- Write about the courses you've taken and their relevance here -->
+### Computer Science Courses
+<!-- List your CS classes -->
+- Data Structures and Algorithms
+- Operating Systems
+- Artificial Intelligence
+- Parallel Programming
+- Databases
 
-## Computer Science Courses
-<!-- Add details about your CS-related classes -->
+### Economics Courses
+<!-- List your Economics classes -->
+- Microeconomics
+- Macroeconomics
+- Econometrics
+- Game Theory
+- International Trade
 
-## Economics Courses
-<!-- Add details about your economics-related classes -->
-
-## Other Relevant Courses
-<!-- Add details about other courses that contribute to your skillset -->
+### Other Relevant Courses
+<!-- List additional courses -->
+- Public Speaking
+- Business Communication
+- Statistics
