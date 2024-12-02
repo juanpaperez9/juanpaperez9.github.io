@@ -15,7 +15,6 @@
         <span class="i-menu u-fs-md"></span>
     </button>
     <ul id="libdoc-sidebar-menu" class="u-m-none u-p-none u-ls-none u-mh-100vh u-o-auto u-pb-xxl">
-        <!-- Logo -->
         <li>
             <a rel="author" href="{{ site.url }}{{ site.baseurl }}" class="c-btn m-translucid m-block-right u-p-md">
                 {% if site.sidebar.logo.url %}
@@ -59,9 +58,13 @@
 
         <!-- Juanpa in the US Category -->
         <li class="c-category-title u-p-md u-bb-thin-dashed-alt">Juanpa in the US</li>
-        <li><a href="/_pages/skills/" class="c-btn m-block-right u-p-md">Skills</a></li>
-        <li><a href="/_pages/experience/" class="c-btn m-block-right u-p-md">Experience</a></li>
-        <li><a href="/_pages/classes/" class="c-btn m-block-right u-p-md">Classes</a></li>
+        <li><a href="/juanpa-in-us/skills/" class="c-btn m-block-right u-p-md">Skills</a></li>
+        <li><a href="/juanpa-in-us/experience/" class="c-btn m-block-right u-p-md">Experience</a></li>
+        <li><a href="/juanpa-in-us/classes/" class="c-btn m-block-right u-p-md">Classes</a></li>
 
+        <!-- Existing Dynamic Menu (Keeps the default pages) -->
+        {% if page_paths %}
+            {% include libdoc/menu-basic.html %}
+        {% endif %}
     </ul>
 </nav>
