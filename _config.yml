@@ -77,17 +77,17 @@ sidebar:
       category: true # Makes it a category, not a clickable page
       order: 1
     - title: "Experience"
-      url: /juanpa-in-us/experience/
+      url: /_pages/experience/
       order: 2
       category: "Juanpa in the US"
       separator: true
     - title: "Skills"
-      url: /juanpa-in-us/skills/
+      url: /_pages/skills/
       order: 3
       category: "Juanpa in the US"
       separator: true
     - title: "Classes"
-      url: /juanpa-in-us/classes/
+      url: /_pages/classes/
       order: 4
       category: "Juanpa in the US"
       separator: true
