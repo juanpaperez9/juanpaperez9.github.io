@@ -1,5 +1,8 @@
 ---
 ---
+## Hello Friends
+
+Portfolio of Juan Pablo Perez Mejia: Programmer, Innovator, and Problem Solver
 ## About Me...
 
 My name is Juan Pablo Perez Mejia, and I was born in Bucaramanga, Colombia. Growing up, I had the unique opportunity to live in several of Colombia’s major cities, including Barranquilla, Bogotá, Cali, and Medellín. These experiences gave me a deep appreciation for Colombia’s diverse cultures and shaped my adaptable and resilient character.
